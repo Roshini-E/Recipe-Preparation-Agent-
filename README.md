@@ -1,6 +1,6 @@
 # 🍳Recipe Preparation AI Agent
 
-**Recipe Preparation AI Agent** is an AI-powered assistant that helps users cook delicious meals using only the ingredients they already have at home. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), the agent suggests personalized recipes, step-by-step cooking instructions, and ingredient substitutions — making daily cooking smarter, easier, and more sustainable.
+**Recipe Preparation AI Agent** is an AI-powered assistant that helps users cook delicious meals using only the ingredients they already have at home. Built using **IBM Watsonx.ai** and **Retrieval-Augmented Generation (RAG)**, the agent suggests personalized recipes, step-by-step cooking instructions, and ingredient substitutions — making daily cooking smarter, easier, and more sustainable.
 
 ---
 
@@ -83,7 +83,7 @@ CookSmart uses IBM Watsonx.ai and a vector index to understand user-provided ing
 
 ## 📸 Screenshots
 
-### 🧾 Home Page
+### ✨📌▪️🔹🔷🔴 Home Page
 ![Homepage](homepage.png)
 
 ### Testing
@@ -122,6 +122,8 @@ CookSmart uses IBM Watsonx.ai and a vector index to understand user-provided ing
 - [GitHub – IBM Developer Repos](https://github.com/IBM)  
 
 ---
+
+
 
 
 👩‍💻 Created By
