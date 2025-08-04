@@ -83,18 +83,17 @@ CookSmart uses IBM Watsonx.ai and a vector index to understand user-provided ing
 
 ## 📸 Screenshots
 
-### 🧾 Ingredient Input Page
+### 🧾 Home Page
 ![Homepage](homepage.png)
 
-### 🍲 Recipe Suggestion Output
-![Result](result.png)
+### Testing
+![Testing](testing.png)
+
+### API
+![Agent Responding](api.png)
+
+### Deployment
+![Deployment](deployment.png)
 
 ---
 
-## 🛠️ How to Run Locally
-
-```bash
-git clone https://github.com/your-username/recipe-preparation-agent.git
-cd recipe-preparation-agent
-pip install -r requirements.txt
-python app.py
