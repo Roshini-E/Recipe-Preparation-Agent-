@@ -97,3 +97,34 @@ CookSmart uses IBM Watsonx.ai and a vector index to understand user-provided ing
 
 ---
 
+## 💬 Sample Queries
+- “What can I cook with rice, tomato, and onion?”  
+- “Suggest a vegan meal using spinach and potato.”  
+- “I only have eggs, garlic, and bread — help!”  
+- “What can I make for dinner with leftover vegetables?”
+
+---
+
+## 🔮 Future Scope
+- Add voice input and spoken instructions
+- WhatsApp / Telegram chatbot interface
+- Add nutrition calculator and meal planner
+- Multilingual response support (e.g., Hindi, Tamil)
+- Weekly meal prep & grocery assistant integration
+- Scan groceries to generate recipe ideas
+
+---
+
+## 🔗 Useful Links
+
+- [IBM Cloud Lite](https://cloud.ibm.com/registration)  
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)  
+- [GitHub – IBM Developer Repos](https://github.com/IBM)  
+
+---
+
+
+👩‍💻 Created By
+**Roshini E**
+B.Tech in Computer Science and Engineering
+Presidency University , Bangalore
