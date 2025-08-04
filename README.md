@@ -4,6 +4,10 @@
 
 ---
 
+![Recipe Preparation Agent](Recipe_Preparation_agent.png)
+
+---
+
 ## 🧩 Problem Statement
 
 Many people struggle to figure out what to cook with limited ingredients at home. Searching online often requires exact ingredients, wasting time and food. There's a need for a smart, context-aware cooking assistant that can turn what's available into practical meals.
@@ -83,16 +87,16 @@ CookSmart uses IBM Watsonx.ai and a vector index to understand user-provided ing
 
 ## 📸 Screenshots
 
-### ✨📌▪️🔹🔷🔴 Home Page
+### 📌 Home Page
 ![Homepage](homepage.png)
 
-### Testing
+### 📌 Testing
 ![Testing](testing.png)
 
-### API
+### 📌 API
 ![Agent Responding](api.png)
 
-### Deployment
+### 📌 Deployment
 ![Deployment](deployment.png)
 
 ---
